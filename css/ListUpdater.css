@@ -1,0 +1,81 @@
+/* List updater */
+.container {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+.input {
+  width: 100%;
+  font: 14px arial, serif;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #fff;
+  padding: 3px 8px;
+  box-sizing: border-box;
+}
+
+.action {
+  
+}
+
+.btn {
+  border-radius: 3px;
+  border: 1px solid #bb695e;
+  background: #cc7a6f;
+  color: #fff;
+  font: bold 14px arial, serif;
+  box-sizing: border-box;
+  padding: 3px 8px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  opacity: 0.5;
+}
+
+
+/*.listUpdater {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+:local(.list-updater) {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #f9f9f9;
+  margin-bottom: 20px;
+}
+.list-updater_item {
+  margin-bottom: 10px;
+}
+.list-updater_input {
+  width: 100%;
+  font: 14px arial, serif;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #fff;
+  padding: 3px 8px;
+  box-sizing: border-box;
+}
+.list-updater_btn {
+  border-radius: 3px;
+  border: 1px solid #bb695e;
+  background: #cc7a6f;
+  color: #fff;
+  font: bold 14px arial, serif;
+  box-sizing: border-box;
+  padding: 3px 8px;
+  cursor: pointer;
+}
+.list-updater_btn:hover { opacity: 0.5; }*/

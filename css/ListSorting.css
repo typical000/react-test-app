@@ -1,0 +1,8 @@
+.sort {
+  font-family: arial, serif;
+  margin-bottom: 20px;
+}
+.sort label {
+  display: inline-block;
+  margin-right: 20px;
+}
